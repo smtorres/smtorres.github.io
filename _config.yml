@@ -2,7 +2,7 @@
 title: Michelle Torres
 email: smtorres@wustl.edu
 description: PhD Candidate
-baseurl: "/smtorres" # the subpath of your site, e.g. /blog
+baseurl: "/smtorres.github.io" # the subpath of your site, e.g. /blog
 url: "https://smtorres.github.io" # the base hostname & protocol for your site
 
 # Homepage tiles
