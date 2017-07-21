@@ -1,11 +1,11 @@
 <section id="two" class="wrapper alt style2">
 
-	{% for post in site.posts limit:1 %}{% if site.tiles-source == 'posts' %}
 
 	<section class="spotlight">
 		<div class="image">{% if post.image %}<img src="/assets/images/berlin1.jpg" alt="" />{% endif %}</div>
 		<div class="content">
-			<p>Hello! I am a Ph.D. student in the Department of Political Science at Washington University in St. Louis. I am from Mexico City, where I obtained a B.A. in Political Science and International Relations from <a href='http://cide.edu'> CIDE (Center for Research and Teaching in Economics) </a>. My broad research interests are in the fields of political methodology and political behavior, with a special interest in survey methodology, computer vision, causal inference, and public opinion.</p>
+			<h2>About me</h2>
+			<p>Hello! I am a Ph.D. student in the Department of Political Science, and a A.M. in Statistics student in the Department of Mathematics at Washington University in St. Louis. I am from Mexico City, where I obtained a B.A. in Political Science and International Relations from <a href='http://cide.edu'> CIDE (Center for Research and Teaching in Economics) </a>. My broad research interests are in the fields of political methodology and political behavior, with a special interest in survey methodology, computer vision, causal inference, and public opinion.</p>
 		</div>
 	</section>
 
@@ -24,5 +24,4 @@
 			<p>In my dissertation, I analyze images and pictures using computer vision and machine learning techniques in order to classify political visual messages such as the level of violence in images published in news articles about the Black Lives Matter movement. I am interested in quantifying visual messages depicted by media outlets, exploring the correlation of such measures with ideological positions, and exploring the effect of visual material on the formation of attitudes and opinions.</p>
 		</div>
 	</section>
-	{% endif %}{% endfor %}
 </section>
