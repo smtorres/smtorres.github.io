@@ -6,7 +6,6 @@ description: A sample of working papers and projects
 
 <section>
 <h4> Image analysis and computer vision: understanding political messages beyond words</h4>
-	<h5> with Jacob M. Montgomery and Brendan Nyhan</h5>
 	<div class="box alt">
 	<div class="row uniform 100%">
 	<div class="8u">
