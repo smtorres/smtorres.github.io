@@ -4,12 +4,6 @@ title: Software, data and code
 description: Scripts, software and material for replication
 ---
 
----
-layout: page
-title: Research
-description: A sample of working papers and projects
----
-
 <section>
 	<h4> weightTAPSPACK</h4>
 	<h5> with Dave Carlson and Taeyong Park</h5>
