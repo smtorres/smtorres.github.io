@@ -5,6 +5,20 @@ description: A sample of working papers and projects
 ---
 
 <section>
+<h4> Image analysis and computer vision: understanding political messages beyond words</h4>
+	<h5> with Jacob M. Montgomery and Brendan Nyhan</h5>
+	<div class="box alt">
+	<div class="row uniform 100%">
+	<div class="8u">
+	<p align="justify">
+	Political communication is a central element of political dynamics. The visual component of it is crucial to understand the origin, characteristics and consequences of the messages sent between political organizations, media and citizens. However, visual features have been largely overlooked in political science despite their strong and frequent presence in political texts, media, campaigns and more. In this study I introduce to political science an approach to quantify and classify images, the Bag of Visual Words. Further, I illustrate the applicability of this method drawn from the computer vision literature by classifying images of protests of the Black Lives Matter movement according to the level of violence and conflict they depict. This accesible and intutive method that consists of building a ``visual vocabulary'' is one of the first attempts in political science to quantify and classify images. This process represents the first step to achieving a better understanding of the structure and impact of visual material on political attitudes and opinions.</p>
+	</div>
+	<div class="4u">
+	<span class="image fit"><img src="assets/images/ferguson10_kp.jpg" alt="" /></span>
+	</div>
+	</div>
+	</div>
+	
 	<h4> How conditioning on post-treatment variables can ruin your experiment and what to do about it</h4>
 	<h5> with Jacob M. Montgomery and Brendan Nyhan</h5>
 	<div class="box alt">
