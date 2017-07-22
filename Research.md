@@ -19,6 +19,46 @@ description: A sample of working papers and projects
 	</div>
 	</div>
 	
+	<h4> Estimating controlled direct effects through marginal structural models</h4>
+	<div class="box alt">
+	<div class="row uniform 100%">
+	<div class="8u">
+	<p align="justify">
+	The estimation of direct effects allows researchers to understand causal mechanisms. However, in political science research, the treatment often affects both the confounders of the mediator and the outcome. Under these conditions traditional regression methods typically lead to two types of biases: endogenous selection and post-treatment control. This article introduces marginal structural models (MSMs) which allows unbiased estimation of controlled direct effects. I compare the  inferences made from MSMs versus a <i>na&#239;ve</i> model using simulations and two examples regarding the effects of conditions in early stages of life on political outcomes. The analyses show that MSMs improve our understanding of causal mechanisms especially when dealing with time-varying treatments and covariates in panel and longitudinal contexts.</p>
+	</div>
+	<div class="4u">
+	<span class="image fit"><img src="assets/images/msm.png" alt="" /></span>
+	</div>
+	</div>
+	</div>
+
+	<h4> Through the ideology of the beholder: partisan perceptions and polarization among the mass public</h4>
+	<h5> with Jonathan Homola, Jon C. Rogowski, Betsy Sinclair, and Patrick D. Tucker</h5>
+	<div class="box alt">
+	<div class="row uniform 100%">
+	<div class="8u">
+	<p align="justify">
+	Scholars have documented increased polarization among contemporary mass publics but its causes and consequences are understood less well. In this paper, we study how citizens develop and apply perceptions of partisan groups. Our theoretical perspective identifies attitudinal intensity rather than partisan identities as a key accelerant of affective and social polarization. Data from two waves of a nationally representative survey demonstrate that while individuals tend to hold inaccurate perceptions of partisan out-group members, these exaggerations are driven primarily by ideological extremity rather than group membership. In a second study, we use an original survey experiment to identify the consequences of exaggerated perceptions and find that realized perceptions---but not partisanship---significantly reduced the potential for interpersonal interaction across a range of settings. Our results suggest that how partisans are perceived contribute to and reinforce social polarization and have important implications for understanding how increased party polarization affects contemporary American politics.</p>
+	</div>
+	<div class="4u">
+	<span class="image fit"><img src="assets/images/stereo.png" alt="" /></span>
+	</div>
+	</div>
+	</div>
+
+	<h4> Personality stability and politics: TIPI variability</h4>
+	<h5> with Joshua Boston, Jonathan Homola, Betsy Sinclair, and Patrick Tucker</h5>
+	<div class="box alt">
+	<div class="row uniform 100%">
+	<div class="8u">
+	<p align="justify">
+	Researchers frequently claim that personality traits, measured using the Ten Item Personality Inventory (TIPI) battery, affect Americans’ political attitudes and behaviors. Such studies often depend on two key assumptions: personality measurements display stability over time and predate political behaviors of interest. In this paper we employ new panel survey data to test these assumptions. First, we find modest levels of TIPI variability over time. Second, we associate an individual’s self-reported personality not only with socioeconomic and demographic characteristics, but also, and more concerning, variability in her political attitudes. While the stability of the TIPI instrument is encouraging, the association between politics and the TIPI instrument suggests that TIPI may vary in response to political events.</p>
+	</div>
+	<div class="4u">
+	<span class="image fit"><img src="assets/images/tipi.png" alt="" /></span>
+	</div>
+	</div>
+	</div>
 	
-	<p><span class="image right"><img src="assets/images/pic05.jpg" alt="" /></span>Vestibulum ultrices risus velit, sit amet blandit massa auctor sit amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis id vel diam. Praesent sit amet posuere risus, eu faucibus lectus. Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam. Proin nec dui cursus, posuere dui eget interdum. Fusce lectus magna, sagittis at facilisis vitae, pellentesque at etiam. Quisque posuere leo quis sem commodo, vel scelerisque nisi scelerisque. Suspendisse id quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec felis elementum varius. Nam sapien ante, varius in pulvinar vitae, rhoncus id massa. Donec varius ex in mauris ornare, eget euismod urna egestas. Etiam lacinia tempor ipsum, sodales porttitor justo. Aliquam dolor quam, semper in tortor eu, volutpat efficitur quam. Fusce nec fermentum nisl. Aenean erat diam, tempus aliquet erat. Etiam iaculis nulla ipsum, et pharetra libero rhoncus ut. Phasellus rutrum cursus velit, eget condimentum nunc blandit vel. In at pulvinar lectus. Morbi diam ante, vulputate et imperdiet eget, fermentum non dolor. Ut eleifend sagittis tincidunt. Sed viverra commodo mi, ac rhoncus justo. Duis neque ligula, elementum ut enim vel, posuere finibus justo. Vivamus facilisis maximus nibh quis pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum. Proin mauris dui.</p>
+	
 </section>
