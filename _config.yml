@@ -24,8 +24,6 @@ github_url: https://github.com/smtorres
 email_url: smtorres@wustl.edu
 twitter_url: https://twitter.com/michtorresp
 
-# Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-83011801-2"
 
 # Build settings
 markdown: kramdown
