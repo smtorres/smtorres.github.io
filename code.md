@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements
-description: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+title: Software, data and code
+description: Scripts, software and material for replication
 ---
 
 <section>
