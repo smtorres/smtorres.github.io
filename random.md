@@ -5,7 +5,7 @@ description: A collection of non-academic and academic links that you may find i
 ---
 
 <section>
-	<h4>Links</h4>
+	<h2>Links</h2>
 <h3><a href="http://javier-marquez.net">Politicamente Correcto</a></h3>
 <p>Statistical and electoral analysis (mainly within the Mexican context)</p>
 <h3><a href="http://cartografica.mx">Cartografica</a></h3>
