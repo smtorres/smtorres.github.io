@@ -6,11 +6,14 @@ description: A collection of non-academic and academic links that you may find i
 
 <section>
 	<h4>Links</h4>
-			<ul>
-				<li><a href="http://javier-marquez.net" class="icon fa-star">Politicamente Correcto</a>: statistical and electoral analysis (mainly within the Mexican context)</li>
-				<li><a href="http://cartografica.mx" class="icon fa-star">Cartografica</a>: big data, technology, creativity and colloquial wisdom. A visualization jewel.</li>
-        <li><a href="http://rbloggers.com" class="icon fa-star">R-bloggers</a>: latest releases and useful tips to improve R-programming skills.</li>
-        <li><a href="http://www.am-cb.net" class="icon fa-star">Adrien M/Claire B</a>: programming + dance = perfection</li>
-        <li><a href="http://www.feastmagazine.com" class="icon fa-star">Feast</a>: where to eat and drink in St. Louis and Kansas City. Foodies' top pick.</li>
-			</ul>
+<h3><a href="http://javier-marquez.net">Politicamente Correcto</a></h3>
+<p>Statistical and electoral analysis (mainly within the Mexican context)</p>
+<h3><a href="http://cartografica.mx">Cartografica</a></h3>
+<p>Big data, technology, creativity and colloquial wisdom. A visualization jewel.</p>
+<h3><a href="http://rbloggers.com">R-bloggers</a></h3>
+<p>Latest releases and useful tips to improve R-programming skills.</p>
+<h3><a href="http://www.am-cb.net">Adrien M/Claire B</a></h3>
+<p>Programming + dance = perfection</p>
+<h3><a href="http://www.feastmagazine.com">Feast</a></h3>
+<p>Where to eat and drink in St. Louis and Kansas City. Foodies' top pick.</p>
   </section>
