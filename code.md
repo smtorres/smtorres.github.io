@@ -18,8 +18,8 @@ description: A sample of working papers and projects
 	<div class="8u">
 	<p align="justify">
 The <em><strong>weightTAPSPACK</strong></em> is an <em>R</em> package that subsets The American Panel Survey (TAPS) data by outcome and covariates, models the attrition rates, imputes data for attrited individuals, and finds weights for analysis.
-<br>
-<span class="icon fa-star"> <a href="https://cran.r-project.org/web/packages/weightTAPSPACK/index.html">Link</a></p> </span>
+</p>
+<p class="icon fa-star"> <a href="https://cran.r-project.org/web/packages/weightTAPSPACK/index.html">Link</a></p>
 	</div>
 	<div class="4u">
 	<span class="image fit"><img src="assets/images/laptop.jpg" alt="" /></span>
