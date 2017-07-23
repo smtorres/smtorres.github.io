@@ -28,4 +28,6 @@ twitter_url: https://twitter.com/michtorresp
 # Build settings
 markdown: kramdown
 
-gems: jekyll-sitemap
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
