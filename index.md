@@ -1,5 +1,5 @@
 ---
 layout: default
 title: Home
-description: Another fine responsive<br />site template freebie<br />crafted by <a href="http://html5up.net">HTML5 UP</a>.
+description: Hello! I am a Ph.D. student in the Department of Political Science, and a A.M. in Statistics student in the Department of Mathematics at Washington University in St. Louis.
 ---
