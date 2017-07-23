@@ -4,6 +4,7 @@ title: Research
 description: A sample of working papers and projects
 ---
 
+<section id="two" class="wrapper alt style2">
 	<section class="spotlight">
 		<div class="image"><img src="/assets/images/ferguson10_kp.jpg" alt="" /></div>
 		<div class="content">
@@ -49,3 +50,5 @@ description: A sample of working papers and projects
 	Researchers frequently claim that personality traits, measured using the Ten Item Personality Inventory (TIPI) battery, affect Americans’ political attitudes and behaviors. Such studies often depend on two key assumptions: personality measurements display stability over time and predate political behaviors of interest. In this paper we employ new panel survey data to test these assumptions. First, we find modest levels of TIPI variability over time. Second, we associate an individual’s self-reported personality not only with socioeconomic and demographic characteristics, but also, and more concerning, variability in her political attitudes. While the stability of the TIPI instrument is encouraging, the association between politics and the TIPI instrument suggests that TIPI may vary in response to political events.</p>
 		</div>
 	</section>
+		</section>
+
