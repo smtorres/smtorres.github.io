@@ -8,7 +8,7 @@ description: Teaching experience, syllabus and evaluations
 	<h2>Instructor</h2>
 <h3>Introduction to Python (Summer 2017)</h3>
 <p> <a href=""> Syllabus </a> </p>
-<p> <a href=""> Material </a> </p>
+<p> <a href="/quiz1"> Material </a> </p>
 
 <h2>Teaching Assistant</h2>
 <h3>Introduction to Python (Summer 2016)</h3>
