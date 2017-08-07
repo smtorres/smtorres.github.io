@@ -5,7 +5,7 @@ description: Scripts, software and material for replication
 ---
 
 <section>
-	<h4> <a href="https://cran.r-project.org/web/packages/weightTAPSPACK/index.html">weightTAPSPACK</a></h4>
+	<h4> <a href="https://cran.r-project.org/package=weightTAPSPACK">weightTAPSPACK</a></h4>
 	<h5> with Dave Carlson and Taeyong Park</h5>
 	<div class="box alt">
 	<div class="row uniform 100%">
@@ -13,7 +13,7 @@ description: Scripts, software and material for replication
 	<p align="justify">
 The <em><strong>weightTAPSPACK</strong></em> is an <em>R</em> package that subsets The American Panel Survey (TAPS) data by outcome and covariates, models the attrition rates, imputes data for attrited individuals, and finds weights for analysis.
 </p>
-<p class="icon fa-star"> <a href="https://cran.r-project.org/web/packages/weightTAPSPACK/index.html">Link</a></p>
+<p class="icon fa-star"> <a href="https://cran.r-project.org/package=weightTAPSPACK">Link</a></p>
 	</div>
 	<div class="4u">
 	<span class="image fit"><img src="assets/images/laptop.jpg" alt="" /></span>
