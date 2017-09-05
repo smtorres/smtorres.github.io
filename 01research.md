@@ -3,6 +3,7 @@ layout: page
 title: Research
 description: A sample of working papers and projects
 ---
+<h2> For a full list of all my publications and working papers, please see <a href="/02cv" class="link">my CV.</a><\h2>
 <section>
 <section class="spotlight">
 		<div class="image"><img src="/assets/images/ferguson10_kp.jpg" alt="" /></div>
