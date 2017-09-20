@@ -37,7 +37,7 @@ description: A sample of working papers and projects
 		<div class="content">
 			<h2> Through the ideology of the beholder: partisan perceptions and polarization among the mass public</h2>
 			<h3> with Jonathan Homola, Jon C. Rogowski, Betsy Sinclair, and Patrick D. Tucker</h3>
-			<h4> <i> Revise and resubmit </i> </h4>
+			<h4> <i> Under review </i> </h4>
 			<p align="justify">
 	Scholars have documented increased polarization among contemporary mass publics but its causes and consequences are understood less well. In this paper, we study how citizens develop and apply perceptions of partisan groups. Our theoretical perspective identifies attitudinal intensity rather than partisan identities as a key accelerant of affective and social polarization. Data from two waves of a nationally representative survey demonstrate that while individuals tend to hold inaccurate perceptions of partisan out-group members, these exaggerations are driven primarily by ideological extremity rather than group membership. In a second study, we use an original survey experiment to identify the consequences of exaggerated perceptions and find that realized perceptions---but not partisanship---significantly reduced the potential for interpersonal interaction across a range of settings. Our results suggest that how partisans are perceived contribute to and reinforce social polarization and have important implications for understanding how increased party polarization affects contemporary American politics.</p>
 		</div>
