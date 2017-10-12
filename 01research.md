@@ -46,9 +46,9 @@ description: A sample of working papers and projects
 	<section class="spotlight">
 		<div class="image"><img src="/assets/images/tipi.png" alt="" /></div>
 		<div class="content">
-			<h2> Personality stability and politics: TIPI variability</h2>
+			<h2> <a href='https://www.dropbox.com/s/ih9w0zcqvh5zcn9/SWBI_FinalManuscript.pdf?dl=0'>Personality stability and politics: TIPI variability</a></h2>
 			<h3> with Joshua Boston, Jonathan Homola, Betsy Sinclair, and Patrick Tucker</h3>
-			<h4> <i> Revise and resubmit </i> </h4>
+			<h4> <i> Forthcoming in the Public Opinion Quarterly </i> </h4>
 			<p align="justify">
 	Researchers frequently claim that personality traits, measured using the Ten Item Personality Inventory (TIPI) battery, affect Americans’ political attitudes and behaviors. Such studies often depend on two key assumptions: personality measurements display stability over time and predate political behaviors of interest. In this paper we employ new panel survey data to test these assumptions. First, we find modest levels of TIPI variability over time. Second, we associate an individual’s self-reported personality not only with socioeconomic and demographic characteristics, but also, and more concerning, variability in her political attitudes. While the stability of the TIPI instrument is encouraging, the association between politics and the TIPI instrument suggests that TIPI may vary in response to political events.</p>
 		</div>
