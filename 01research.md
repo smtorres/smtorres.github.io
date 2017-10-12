@@ -46,7 +46,7 @@ description: A sample of working papers and projects
 	<section class="spotlight">
 		<div class="image"><img src="/assets/images/tipi.png" alt="" /></div>
 		<div class="content">
-			<h2> <a href='https://www.dropbox.com/s/ih9w0zcqvh5zcn9/SWBI_FinalManuscript.pdf?dl=0'>Personality stability and politics: TIPI variability</a></h2>
+			<h2> Personality stability and politics: TIPI variability</h2>
 			<h3> with Joshua Boston, Jonathan Homola, Betsy Sinclair, and Patrick Tucker</h3>
 			<h4> <i> Forthcoming in the Public Opinion Quarterly </i> </h4>
 			<p align="justify">
