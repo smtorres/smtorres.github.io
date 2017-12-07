@@ -27,6 +27,7 @@ description: A sample of working papers and projects
 		<div class="image"><img src="/assets/images/msm.png" alt="" /></div>
 		<div class="content">
 			<h2> Estimating controlled direct effects through marginal structural models</h2>
+			<h4> <i> Under review </i> </h4>
 			<p align="justify">
 	The estimation of direct effects allows researchers to understand causal mechanisms. However, in political science research, the treatment often affects both the confounders of the mediator and the outcome. Under these conditions traditional regression methods typically lead to two types of biases: endogenous selection and post-treatment control. This article introduces marginal structural models (MSMs) which allows unbiased estimation of controlled direct effects. I compare the  inferences made from MSMs versus a <i>na&#239;ve</i> model using simulations and two examples regarding the effects of conditions in early stages of life on political outcomes. The analyses show that MSMs improve our understanding of causal mechanisms especially when dealing with time-varying treatments and covariates in panel and longitudinal contexts.</p>
 		</div>
