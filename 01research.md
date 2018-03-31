@@ -20,6 +20,7 @@ description: A sample of working papers and projects
 	<h3> with Jacob M. Montgomery and Brendan Nyhan</h3>
 	<h4> <i> Forthcoming in the American Journal of Political Science </i> </h4>
 				<p align="justify"> In principle, experiments offer a straightforward method for social scientists to accurately estimate causal effects. However, scholars often unwittingly distort treatment effect estimates by conditioning on variables that could be affected by their experimental manipulation. Typical examples include controlling for post-treatment variables in statistical models or eliminating observations based on post-treatment criteria. Though these modeling choices are intended to address common problems encountered when conducting experiments, they can create severe bias in estimates of causal effects. Moreover, problems associated with conditioning on post-treatment variables remain largely unrecognized in the field, which frequently publishes studies using these practices in our discipline's most prestigious journals. We demonstrate the magnitude of the potential distortions induced by post-treatment conditioning in experiments using Monte Carlo simulations and a reanalysis of real-world data before concluding with recommendations for best practice.</p>
+				<p><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/ajps.12357?author_access_token=vMww2DhyoE5P3gDg6fMrWYta6bR2k8jH0KrdpFOxC66395HC5qDg1jR36mjnFGJ_iSu6X5nuDwuA5zeNt_zBrkHgdTtDfO639zIYnu5w8F4mYvzx7UtfUCTZiXCsYft0"> Link </a></p>
 		</div>
 	</section>
 	
