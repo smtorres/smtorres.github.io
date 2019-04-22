@@ -35,23 +35,22 @@ description: A sample of working papers and projects
 	</section>
 	
 	<section class="spotlight">
+		<div class="image"><img src="/assets/images/Conv+Pooling.pdf" alt="" /></div>
+		<div class="content">
+			<h2> Learning to See: Convolutional Neural Networks for the Analysis of Social Science Data</h2>
+			<h3> with Francisco Cantú</h3>
+			<p align="justify">
+	This paper presents the functioning, implementation, and challenges of Convolutional Neural Networks (CNNs)---one of the most popular tools for classifying visual information. We propose that the adequate use of CNNs reduces the resources necessary for the tedious task of classifying images and extracting information from them. To illustrate the advantages and implementation of this methodology, we describe a potential application of CNNs to the collection and analysis of data on Election Day. We use this tool to code handwritten electoral results from the vote tallies of the 2015 federal election in Mexico. Our paper demonstrates the contributions of CNNs to both scholars and policy practitioners, but also presents practical challenges and limitations of the method, and provides advice on how to deal with these issues.</p>
+		</div>
+	</section>
+	
+	<section class="spotlight">
 		<div class="image"><img src="/assets/images/stereo.png" alt="" /></div>
 		<div class="content">
 			<h2> Through the ideology of the beholder: partisan perceptions and polarization among the mass public</h2>
 			<h3> with Jonathan Homola, Jon C. Rogowski, Betsy Sinclair, and Patrick D. Tucker</h3>
 			<p align="justify">
 	Scholars have documented increased polarization among contemporary mass publics but its causes and consequences are understood less well. In this paper, we study how citizens develop and apply perceptions of partisan groups. Our theoretical perspective identifies attitudinal intensity rather than partisan identities as a key accelerant of affective and social polarization. Data from two waves of a nationally representative survey demonstrate that while individuals tend to hold inaccurate perceptions of partisan out-group members, these exaggerations are driven primarily by ideological extremity rather than group membership. In a second study, we use an original survey experiment to identify the consequences of exaggerated perceptions and find that realized perceptions---but not partisanship---significantly reduced the potential for interpersonal interaction across a range of settings. Our results suggest that how partisans are perceived contribute to and reinforce social polarization and have important implications for understanding how increased party polarization affects contemporary American politics.</p>
-		</div>
-	</section>
-
-	<section class="spotlight">
-		<div class="image"><img src="/assets/images/tipi.png" alt="" /></div>
-		<div class="content">
-			<h2> Personality stability and politics: TIPI variability</h2>
-			<h3> with Joshua Boston, Jonathan Homola, Betsy Sinclair, and Patrick Tucker</h3>
-			<h4> <i> Published in the Public Opinion Quarterly </i> </h4>
-			<p align="justify">
-	Researchers frequently claim that personality traits, measured using the Ten Item Personality Inventory (TIPI) battery, affect Americans’ political attitudes and behaviors. Such studies often depend on two key assumptions: personality measurements display stability over time and predate political behaviors of interest. In this paper we employ new panel survey data to test these assumptions. First, we find modest levels of TIPI variability over time. Second, we associate an individual’s self-reported personality not only with socioeconomic and demographic characteristics, but also, and more concerning, variability in her political attitudes. While the stability of the TIPI instrument is encouraging, the association between politics and the TIPI instrument suggests that TIPI may vary in response to political events.</p>
 		</div>
 	</section>
 </section>
