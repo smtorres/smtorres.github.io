@@ -1,1 +1,1 @@
-Michelle Torres, PhD Student
+Michelle Torres, Assistant Professor
