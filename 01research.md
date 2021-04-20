@@ -28,9 +28,10 @@ description: A sample of working papers and projects
 		<div class="image"><img src="/assets/images/msm.png" alt="" /></div>
 		<div class="content">
 			<h2> Estimating controlled direct effects through marginal structural models</h2>
-			<h4> <i> Conditionally accepted pending replication in Political Science Research and Methods </i> </h4>
+			<h4> <i> Published in Political Science Research and Methods </i> </h4>
 			<p align="justify">
 	The estimation of direct effects allows researchers to understand causal mechanisms. However, in political science research, the treatment often affects both the confounders of the mediator and the outcome. Under these conditions traditional regression methods typically lead to two types of biases: endogenous selection and post-treatment control. This article introduces marginal structural models (MSMs) which allows unbiased estimation of controlled direct effects. I compare the  inferences made from MSMs versus a <i>na&#239;ve</i> model using simulations and two examples regarding the effects of conditions in early stages of life on political outcomes. The analyses show that MSMs improve our understanding of causal mechanisms especially when dealing with time-varying treatments and covariates in panel and longitudinal contexts.</p>
+	<p><a href="https://doi.org/10.1017/psrm.2020.3"> Link </a></p>
 		</div>
 	</section>
 	
@@ -39,8 +40,10 @@ description: A sample of working papers and projects
 		<div class="content">
 			<h2> Learning to See: Convolutional Neural Networks for the Analysis of Social Science Data</h2>
 			<h3> with Francisco Cantú</h3>
+			<h4> <i> Published in Political Analysis </i> </h4>
 			<p align="justify">
 	This paper presents the functioning, implementation, and challenges of Convolutional Neural Networks (CNNs)---one of the most popular tools for classifying visual information. We propose that the adequate use of CNNs reduces the resources necessary for the tedious task of classifying images and extracting information from them. To illustrate the advantages and implementation of this methodology, we describe a potential application of CNNs to the collection and analysis of data on Election Day. We use this tool to code handwritten electoral results from the vote tallies of the 2015 federal election in Mexico. Our paper demonstrates the contributions of CNNs to both scholars and policy practitioners, but also presents practical challenges and limitations of the method, and provides advice on how to deal with these issues.</p>
+	<p><a href="https://doi.org/10.1017/pan.2021.9"> Link </a></p>
 		</div>
 	</section>
 	
@@ -48,7 +51,7 @@ description: A sample of working papers and projects
 		<div class="image"><img src="/assets/images/stereo.png" alt="" /></div>
 		<div class="content">
 			<h2> Through the ideology of the beholder: partisan perceptions and polarization among the mass public</h2>
-			<h3> with Jonathan Homola, Jon C. Rogowski, Betsy Sinclair, and Patrick D. Tucker</h3>
+			<h3> with Jonathan Homola, Jon C. Rogowski, Betsy Sinclair, Patrick D. Tucker, and Steven Webster</h3>
 			<p align="justify">
 	Scholars have documented increased polarization among contemporary mass publics but its causes and consequences are understood less well. In this paper, we study how citizens develop and apply perceptions of partisan groups. Our theoretical perspective identifies attitudinal intensity rather than partisan identities as a key accelerant of affective and social polarization. Data from two waves of a nationally representative survey demonstrate that while individuals tend to hold inaccurate perceptions of partisan out-group members, these exaggerations are driven primarily by ideological extremity rather than group membership. In a second study, we use an original survey experiment to identify the consequences of exaggerated perceptions and find that realized perceptions---but not partisanship---significantly reduced the potential for interpersonal interaction across a range of settings. Our results suggest that how partisans are perceived contribute to and reinforce social polarization and have important implications for understanding how increased party polarization affects contemporary American politics.</p>
 		</div>
