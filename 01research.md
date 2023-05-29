@@ -3,15 +3,6 @@ layout: page
 title: Research
 description: A sample of working papers and projects
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8JTSYGPYPQ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-8JTSYGPYPQ');
-</script>
 
 <p>For a full list of all my publications and working papers, please see <a href="/02cv" class="link">my CV.</a></p>
 <section>
