@@ -13,7 +13,7 @@ description: A sample of working papers and projects
 			<h4> <i> Forthcoming in Political Analysis </i> </h4>
 			<p> This article introduces to political science a framework to analyze the content of political visual material through unsupervised and semi-supervised methods. It details the implementation of a tool from the computer vision field, the Bag of Visual Words, for the definition and extraction of ``tokens'' that allow researchers to build an Image-Visual Word matrix which emulates the Document-Term matrix in text analysis. This reduction technique is the basis for several tools familiar to social scientists, such as topic models, that permit exploratory, and semi-supervised analysis of images. The framework has gains in transparency, interpretability, and inclusion of domain knowledge with respect to other deep learning techniques. I illustrate the scope of the BoVW by conducting a novel visual structural topic model which focuses substantively on the identification of visual frames from the pictures of the migrant caravan from Central America. <span style="color: ##DCDCDC">(Photo credit: Robert Cohen/St. Louis Post Dispatch)</span></p>
 		<p><a href="https://www.cambridge.org/core/journals/political-analysis/article/framework-for-the-unsupervised-and-semisupervised-analysis-of-visual-frames/2D96F6C3C8C6DEAA3F4B5B2115E870AF"> Link </a></p>
-		<p><a href="https://doi.org/10.24433/CO.1204365.v1"> Replication material </a></p>
+		<p><a href="https://doi.org/10.24433/CO.1204365.v1"> Replication material</a></p>
 		</div>
 	</section>
 
