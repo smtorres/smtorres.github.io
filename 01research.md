@@ -44,7 +44,7 @@ description: A sample of working papers and projects
 			<p align="justify">
 	This paper presents the functioning, implementation, and challenges of Convolutional Neural Networks (CNNs)---one of the most popular tools for classifying visual information. We propose that the adequate use of CNNs reduces the resources necessary for the tedious task of classifying images and extracting information from them. To illustrate the advantages and implementation of this methodology, we describe a potential application of CNNs to the collection and analysis of data on Election Day. We use this tool to code handwritten electoral results from the vote tallies of the 2015 federal election in Mexico. Our paper demonstrates the contributions of CNNs to both scholars and policy practitioners, but also presents practical challenges and limitations of the method, and provides advice on how to deal with these issues.</p>
 	<p><a href="https://doi.org/10.1017/pan.2021.9"> Link </a></p>
- 		<p><a href="http://https//doi.org/10.24433/CO.3401138.v1"> Replication material </a></p>
+ 		<p><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UNYOLF"> Replication material </a></p>
 
 		</div>
 	</section>
