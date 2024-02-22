@@ -1,7 +1,7 @@
 # Site settings
 title: Michelle Torres
-email: smtorres@wustl.edu
-description: PhD Candidate in Political Science at Washington University in St. Louis
+email: smtorres@ucla.edu
+description: Assistant Professor of Political Science, University of California, Los Angeles
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://smtorres.org" # the base hostname & protocol for your site
 
@@ -21,7 +21,7 @@ github_url: https://github.com/smtorres
 #instagram_url:
 #linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 #pinterest_url:
-email_url: smtorres@wustl.edu
+email_url: smtorres@ucla.edu
 twitter_url: https://twitter.com/michtorresp
 
 
